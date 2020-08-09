@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ten10</string>
+    <string name="facebook_app_id">288906325682726</string>
+    <string name="fb_login_protocol_scheme">fb288906325682726</string>
+</resources>
